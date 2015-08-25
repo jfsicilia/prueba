@@ -3,4 +3,5 @@ Mas texto.
 # Se corrige un bug.
 Quizas como no también esto y lo otro.
 Quizas también esto y aquello.
+Otra cosa
 Con esto corregimos el fallo grave de producción.
