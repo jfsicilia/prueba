@@ -1,4 +1,3 @@
-hola
 cat
 adios
 dog
